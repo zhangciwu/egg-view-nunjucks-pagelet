@@ -1,6 +1,6 @@
 {
   "name": "egg-view-nunjucks-pagelet-w",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Egg view plugin base on nunjucks-pagelet; W-version:Require js with exact file path",
   "eggPlugin": {
     "name": "nunjucksPagelet",
