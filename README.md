@@ -1,3 +1,13 @@
+w modify:
+
+依赖改为nunjucks-pagelet-w：
+
+js中require使用改为需要具体到文件（之前为到目录）
+
+下面为原repo说明
+
+=========================================================================
+
 # egg-view-nunjucks-pagelet
 
 [![NPM version][npm-image]][npm-url]
