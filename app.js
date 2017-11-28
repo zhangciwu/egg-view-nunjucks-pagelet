@@ -1,6 +1,6 @@
 'use strict';
 
-const pagelet = require('nunjucks-pagelet');
+const pagelet = require('nunjucks-pagelet-w');
 
 module.exports = app => {
   const config = app.config;
