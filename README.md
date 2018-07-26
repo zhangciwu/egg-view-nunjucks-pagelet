@@ -73,6 +73,7 @@ exports.nunjucksPagelet = {
   // whether using custom parser, default true
   // for more detail, see https://github.com/scrat-team/nunjucks-tag#custom-parser-rules
   // useCustomParser: true,
+  // crossorigin: false
 };
 ```
 
