@@ -22,7 +22,7 @@ module.exports = appInfo => {
       layout: 'layout/layout.tpl',
       useCustomParser: true,
       manifest: path.join(appInfo.baseDir, 'config/manifest.json'),
-      crossorigin: false,
+      crossorigin: "",
     },
   };
 };
