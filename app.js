@@ -10,6 +10,7 @@ module.exports = app => {
     root: config.view.root[0],
     manifest: config.nunjucksPagelet.manifest,
     cache: config.nunjucks.cache,
+    crossorigin: config.nunjucksPagelet.crossorigin,
   });
 
   // configure custom parser
